@@ -1,1 +1,1 @@
-# py-jokenpo-
+Jokenpo Feito de python puro
